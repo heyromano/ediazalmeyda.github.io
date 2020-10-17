@@ -6,7 +6,7 @@ layout: default
 
 ## Assistant Professor of Biology and Environmental Studies
 
-I investigate how microbes contribute to maintaining biodiversity and respond to anthropogenic input in marine and agricultural settings.
+At [New College of Florida](https://www.ncf.edu/academics/undergraduate-program/division-of-natural-sciences/biology/){:target="_blank"}, I investigate how microbes contribute to maintaining biodiversity and respond to anthropogenic input in marine and agricultural settings.
 
 {::nomarkdown} 
 <figure class="site-profile">
