@@ -1,8 +1,12 @@
 ---
 layout: default
+subtitle: Conservation Microbiologist.
 ---
 
 <div class="lead pretty-links">
+
+<div class="lead lead-about">I investigate how microbes contribute to maintaining biodiversity and respond to anthropogenic input in marine and agricultural settings.
+</div>
   
 {::nomarkdown} 
 <figure class="site-profile">
