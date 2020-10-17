@@ -5,14 +5,13 @@ subtitle: Assistant Professor of Biology and Environmental Studies
 
 <div class="lead pretty-links">
 
-<div class="lead lead-about">I investigate how microbes contribute to maintaining biodiversity and respond to anthropogenic input in marine and agricultural settings.
-</div>
-  
 {::nomarkdown} 
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/profile.jpg">
 </figure>
 {:/}
+
+I investigate how microbes contribute to maintaining biodiversity and respond to anthropogenic input in marine and agricultural settings.
   
   Hello, world! this is just a sample **intro text**. You would normally put your [full name](about/) here and say something *smart* about yourself.
 
