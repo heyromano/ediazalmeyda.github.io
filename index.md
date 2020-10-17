@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
+subtitle: Assistant Professor of Biology and Environmental Studies
+desc: Home Page
 ---
 
 <div class="lead pretty-links">
-
-## Assistant Professor of Biology and Environmental Studies
 
 At [New College of Florida](https://www.ncf.edu/academics/undergraduate-program/division-of-natural-sciences/biology/){:target="_blank"}, I investigate how microbes contribute to maintaining biodiversity and respond to anthropogenic input in marine and agricultural settings.
 
