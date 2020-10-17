@@ -41,6 +41,12 @@ navigation:
   - title: Publications
     url: /publications/
     desc: List of Publications
+  - title: Mentoring
+    url: /mentoring/
+    desc: Mentoring and Advising
+  - title: Outreach
+    url: /outreach/
+    desc: Outreach and Media
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
