@@ -1,6 +1,6 @@
 ---
-layout: default
-subtitle: Conservation Microbiologist.
+layout: page
+subtitle: Assistant Professor of Biology and Environmental Studies
 ---
 
 <div class="lead pretty-links">
