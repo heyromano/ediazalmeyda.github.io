@@ -23,6 +23,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=wlIHaV8AAAAJ){
     <div class="unit one-third">
       <div class="project">
         <h4 class="project-title">Coral Reefs</h4>
+        <img src="/assets/img/cassiopeia.jpg">
         <p>To address challenges of coral bleaching and climate change, I study the effects of high temperature on physiological responses of photosynthetic symbionts (Symbiodiniacea), a key component to coral health.</p>
       </div>
     </div>
@@ -30,6 +31,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=wlIHaV8AAAAJ){
     <div class="unit one-third">
       <div class="project">
         <h4 class="project-title">Agroecology</h4>
+        <img src="/assets/img/fieldwork-milpa.jpg">
         <p>To address challenges of soil depletion and food insecurity in the face of anthropogenic input, I research the effects management practices on soil and water microbiomes.</p>
       </div>
     </div>
@@ -37,6 +39,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=wlIHaV8AAAAJ){
     <div class="unit one-third">
       <div class="project">
         <h4 class="project-title">Outreach</h4>
+        <img src="/assets/img/microbe-day.jpg">
         <p>A long-term goal of my research is to inform the “Ridge to Reef” movement, which aims to manage water from the source to the sea. With other researchers, non-profit organizations, and community stakeholders, we communicate science for decision makers and land / water managers.</p>
       </div>
     </div>
