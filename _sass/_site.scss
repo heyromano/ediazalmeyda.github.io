@@ -37,6 +37,8 @@
 }
 
 .site-title a {
+  padding: 0 .25rem;
+  
   &:hover {
     text-decoration: none;
     color: $link-color;
