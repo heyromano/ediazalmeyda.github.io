@@ -12,7 +12,7 @@ baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: email@erikadiaz.org
+email: ediazalmeyda@ncf.edu
 author: Erika Diaz-Almeyda
 twitter_username: ErikaDiazAl
 #github_username: 
