@@ -41,4 +41,15 @@ permalink: /research/
 
 {:/}
 
+---
+
+## Current Lab Members
+
+- **Lab Manager:** Cara Ruhnke (class of 2021)
+- **Research Assistant:** Shannon Collins (class of 2020; accepted to Masters program)
+
+## Lab Alumni
+
+- Jacob Zidek (thesis student, class of 2020, accepted to Ph.D. program)
+
 </div>
