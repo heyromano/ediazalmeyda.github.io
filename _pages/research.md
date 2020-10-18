@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: Diaz Lab Research Projects
+subtitle: Research Projects
 desc: Research Projects
 permalink: /research/
 ---
@@ -10,6 +10,8 @@ permalink: /research/
 
 <div class="lead lead-about">I investigate how microbes contribute to maintaining biodiversity and respond to anthropogenic input in marine and agricultural settings.
 </div>
+
+{::nomarkdown}
 
 <div class="projects">
   <div class="grid no-gutters">
@@ -36,5 +38,7 @@ permalink: /research/
     </div>
   </div><!-- grid -->
 </div>
+
+{:/}
 
 </div>
