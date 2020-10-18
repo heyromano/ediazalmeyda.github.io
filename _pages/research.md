@@ -47,8 +47,14 @@ See my [Google Scholar](https://scholar.google.com/citations?user=wlIHaV8AAAAJ){
 
 ## Current Lab Members
 
-- **Lab Manager:** Cara Ruhnke '21
+- **Lab Manager:** Cara Ruhnke
 - **Research Assistant:** Shannon Collins '20 (accepted to Masters program)
+- **Undergraduate Thesis Advisees:**
+  - Erika Calle
+  - Ryan Counsman
+  - Marjorie Netwal
+  - Marcela Prado-Zapata
+  - Elliott Schenker
 
 ## Lab Alumni
 
