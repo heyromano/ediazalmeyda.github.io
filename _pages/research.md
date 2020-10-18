@@ -11,6 +11,8 @@ permalink: /research/
 <div class="lead lead-about">I investigate how microbes contribute to maintaining biodiversity and respond to anthropogenic input in marine and agricultural settings.
 </div>
 
+See my [Google Scholar](https://scholar.google.com/citations?user=wlIHaV8AAAAJ){:target="_blank"} page for a complete list of publications.
+
 {::nomarkdown}
 
 <div class="projects">
