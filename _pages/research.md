@@ -33,7 +33,7 @@ permalink: /research/
     <div class="unit one-third">
       <div class="project">
         <h4 class="project-title">Outreach</h4>
-        <p>A long-term goal of my research is to inform the “Ridge to Reef” movement, which aims to manage water from the source to the sea. I collaborate with other researchers, non-profit organizations, and community stakeholders in communicating science for decision makers and land / water managers.</p>
+        <p>A long-term goal of my research is to inform the “Ridge to Reef” movement, which aims to manage water from the source to the sea. With other researchers, non-profit organizations, and community stakeholders, we communicate science for decision makers and land / water managers.</p>
       </div>
     </div>
   </div><!-- grid -->
