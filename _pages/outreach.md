@@ -12,6 +12,10 @@ permalink: /outreach/
 
 ## Outreach
 
+- Microbe Day: founded the annual event at New College of Florida to showcase undergraduate research in microbiology (Spring 2019, Spring 2020)
+- Research collaborations with [Florida House Institute](http://floridahouseinstitute.org/what-we-do/university-collaborations/){:target="_blank"}
+- Citizen science presentations at the [Atlanta Science Festival](https://atlantasciencefestival.org){:target="_blank"}
+
 ---
 
 ## Media
