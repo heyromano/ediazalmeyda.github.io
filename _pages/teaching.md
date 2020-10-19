@@ -1,13 +1,16 @@
 ---
 layout: page
 title: Teaching
-desc: Teaching and Outreach
+subtitle: Teaching Experience
+desc: Teaching Experience
 permalink: /teaching/
 ---
 
 <div class="pretty-links">
 
-## Teaching at New College of Florida
+---
+
+## New College of Florida
 
 Courses
 - Foundations of Biology (Fall 2020)
@@ -31,14 +34,14 @@ Independent Study Projects (interterm research projects)
 
 ---
 
-## Teaching at Emory University
+## Emory University
 
 [Emory-Tibet Science Initiative](https://tibet.emory.edu){:target="_blank"} (Gaden Monastery, Karnataka, India)
 - Introduction to Biology (co-taught Summer 2015)
 
 ---
 
-## Teaching at Spelman College
+## Spelman College
 - Population Biology Laboratory (co-taught Fall 2017)
 
 </div>
