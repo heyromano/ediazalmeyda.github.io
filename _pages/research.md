@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Research
-subtitle: Research Projects
-desc: Research Projects
+subtitle: Research and People
+desc: Research and People
 permalink: /research/
 ---
 
@@ -62,6 +62,9 @@ See my [Google Scholar](https://scholar.google.com/citations?user=wlIHaV8AAAAJ){
   - Marjorie Netwal
   - Marcela Prado-Zapata
   - Elliott Schenker
+- **Undergraduate Researchers**
+  - Nora Flower
+  - Meredith Moore
 
 ## Lab Alumni
 
