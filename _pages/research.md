@@ -34,7 +34,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=wlIHaV8AAAAJ){
       <div class="project">
         <h4 class="project-title">Agroecology</h4>
         <p><img src="/assets/img/fieldwork-milpa.jpg"></p>
-        <p>To address challenges of soil depletion and food insecurity in the face of anthropogenic input, I research the effects management practices on soil and water microbiomes.</p>
+        <p>To address challenges of soil depletion and food insecurity in the face of anthropogenic input, I research the effects of management practices on soil and water microbiomes.</p>
       </div>
     </div>
 
