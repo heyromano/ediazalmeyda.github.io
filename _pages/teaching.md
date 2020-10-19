@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Teaching
-subtitle: Teaching and Outreach
 desc: Teaching and Outreach
 permalink: /teaching/
 ---
@@ -23,5 +22,19 @@ Tutorials (semester-long seminars; *co-taught)
 - Microbes and Health (Fall 2019)
 - * Anthropology of Microbes and Health (Fall 2019)
 - * Soil Techniques Laboratory (Fall 2019)
+
+Independent Study Projects (interterm research projects)
+- Microbial Ecology and Evolution (Spring 2020)
+- Illustrations of Marine Research Internship (Spring 2020)
+- Science Communication (Spring 2020)
+- Microbiology and Symbiosis (Spring 2019)
+
+## Emory University
+
+[Emory-Tibet Science Initiative](https://tibet.emory.edu){:target="_blank"} (Gaden Monastery, Karnataka, India)
+- Introduction to Biology (Summer 2015)
+
+## Spelman College
+- Population Biology Laboratory (co-taught; Fall 2017)
 
 </div>
