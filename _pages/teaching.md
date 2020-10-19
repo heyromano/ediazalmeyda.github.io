@@ -16,4 +16,12 @@ Courses
 - Introduction to Microbiology (Spring 2019, Spring 2020)
 - Introduction to Microbiology Laboratory (Spring 2019, Spring 2020)
 
+Tutorials (semester-long seminars; *co-taught)
+- Virology (Fall 2020)
+- Microbiomes (Fall 2020)
+- Ecology and Experimental Evolution (Fall 2019)
+- Microbes and Health (Fall 2019)
+- * Anthropology of Microbes and Health (Fall 2019)
+- * Soil Techniques Laboratory (Fall 2019)
+
 </div>
