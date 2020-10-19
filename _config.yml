@@ -37,7 +37,10 @@ navigation:
     desc: Research Projects
   - title: Teaching
     url: /teaching/
-    desc: Courses I Teach
+    desc: Teaching Experience
+  - title: Outreach
+    url: /outreach/
+    desc: Outreach and Media
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
