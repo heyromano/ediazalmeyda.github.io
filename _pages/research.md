@@ -26,7 +26,7 @@ See my [Google Scholar](https://scholar.google.com/citations?user=wlIHaV8AAAAJ){
       <div class="project">
         <h4 class="project-title">Coral Reefs</h4>
         <p><img src="/assets/img/cassiopeia.jpg"></p>
-        <p>To address challenges of coral bleaching and climate change, I study the effects of high temperature on physiological responses of photosynthetic symbionts (Symbiodiniacea), a key component to coral health.</p>
+        <p>To address challenges of coral bleaching and climate change, I study the effects of high temperature on physiological responses of photosynthetic symbionts (Symbiodiniaceae), a key component to coral health.</p>
       </div>
     </div>
 
