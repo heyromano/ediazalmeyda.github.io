@@ -36,7 +36,7 @@ Independent Study Projects (interterm research projects)
 
 ## Emory University
 
-[Emory-Tibet Science Initiative](https://tibet.emory.edu){:target="_blank"} (Gaden Monastery, Karnataka, India)
+[Emory-Tibet Science Initiative](https://tibet.emory.edu/program-overview.html){:target="_blank"} (Gaden Monastery, Karnataka, India)
 - Introduction to Biology (co-taught Summer 2015)
 
 ---
