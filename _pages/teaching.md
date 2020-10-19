@@ -29,12 +29,16 @@ Independent Study Projects (interterm research projects)
 - Science Communication (Spring 2020)
 - Microbiology and Symbiosis (Spring 2019)
 
-## Emory University
+---
+
+## Teaching at Emory University
 
 [Emory-Tibet Science Initiative](https://tibet.emory.edu){:target="_blank"} (Gaden Monastery, Karnataka, India)
 - Introduction to Biology (co-taught Summer 2015)
 
-## Spelman College
+---
+
+## Teaching at Spelman College
 - Population Biology Laboratory (co-taught Fall 2017)
 
 </div>
