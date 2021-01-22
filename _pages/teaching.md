@@ -23,8 +23,8 @@ Across my courses, the central aims of my teaching include:
 Courses
 - Foundations of Biology (Fall 2020)
 - Never Alone: Symbiosis Laboratory (Fall 2020)
-- Introduction to Microbiology (Spring 2019, Spring 2020)
-- Introduction to Microbiology Laboratory (Spring 2019, Spring 2020)
+- Introduction to Microbiology (Spring 2019, Spring 2020, Spring 2021)
+- Introduction to Microbiology Laboratory (Spring 2019, Spring 2020, Spring 2021)
 
 Tutorials (semester-long seminars)
 - Virology (Fall 2020)
