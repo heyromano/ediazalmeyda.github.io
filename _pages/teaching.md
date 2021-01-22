@@ -10,7 +10,7 @@ permalink: /teaching/
 
 As an Assistant Professor of Biology and Environmental Studies at [New College of Florida](https://www.ncf.edu){:target="_blank"}, my courses and laboratories are inquiry-based and emphasize critical thinking, teamwork, and ethical engagement. In my teaching, I utilize local fieldwork components and connect course content with local and global challenges.
 
-Across my courses, the central aims of my teaching include:
+Across my courses, central aims of my teaching include:
 - Empowering students to engage the scientific method by nurturing their personal interests to develop and test their own hypotheses.
 - Supporting lifelong learning by having students read, interpret, and communicate about peer-reviewed journal articles and other primary literature.
 - Inspiring ethical engagement and action at local and global levels by connecting course content with real-world challenges.
