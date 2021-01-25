@@ -170,28 +170,28 @@ p.post-desc {
   float: right;
   width: 200px;
   height: 200px;
-  margin: 0 0 0 $spacer;
-  //margin: -.4rem 1rem 0 $spacer;
+  margin: -.4rem 1rem 0 $spacer;
 }
 
 .site-photo {
   float: right;
   width: 200px;
   height: 200px;
-  margin: 0.4rem 1rem 0 $spacer;
+  margin: -.4rem 1rem 0 $spacer;
+  clear: right;
 }
 
 @include mq-up(md) {
   .site-profile {
     width: 300px;
     height: 300px;
-    margin: 0 0 0 2rem;
-    //margin: -1.2rem 1rem 0 2rem;
+    margin: -1.2rem 1rem 0 2rem;
   }
   
   .site-photo {
     width: 300px;
     height: 300px;
-    margin: 1.2rem 1rem 0 2rem;
+    margin: -1.2rem 1rem 0 2rem;
+    clear: right;
   }
 }
