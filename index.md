@@ -8,6 +8,7 @@ desc: Home Page
 
 <img class="site-photo" src="{{ site.baseurl }}/assets/img/profile.jpg">
 <img class="site-photo" src="{{ site.baseurl }}/assets/img/diving.jpg">
+<img class="site-photo" src="{{ site.baseurl }}/assets/img/fieldwork-milpa.jpg">
 
 I am a microbial ecologist at [New College of Florida](https://www.ncf.edu/academics/undergraduate-program/division-of-natural-sciences/biology/){:target="_blank"}, a public liberal arts honors college in Sarasota, Florida.
 
