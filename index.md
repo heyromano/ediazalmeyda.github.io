@@ -8,7 +8,7 @@ desc: Home Page
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <img src="{{ site.baseurl }}/assets/img/profile.jpg">
+    <p><img src="{{ site.baseurl }}/assets/img/profile.jpg"></p>
 </figure>
 {:/}
 
