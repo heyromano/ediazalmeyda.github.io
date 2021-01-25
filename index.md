@@ -6,7 +6,8 @@ desc: Home Page
 
 <div class="lead pretty-links">
 
-{::nomarkdown} 
+{::nomarkdown}
+<br>
 <figure class="site-profile">
     <img src="{{ site.baseurl }}/assets/img/profile.jpg">
 </figure>
@@ -14,9 +15,10 @@ desc: Home Page
 
 I am a microbial ecologist at [New College of Florida](https://www.ncf.edu/academics/undergraduate-program/division-of-natural-sciences/biology/){:target="_blank"}, a public liberal arts honors college in Sarasota, Florida.
 
-{::nomarkdown} 
+{::nomarkdown}
+<br><br><br>
 <figure class="site-profile">
-    <br><br><br><br><img src="{{ site.baseurl }}/assets/img/diving.jpg">
+    <img src="{{ site.baseurl }}/assets/img/diving.jpg">
 </figure>
 {:/}
 
