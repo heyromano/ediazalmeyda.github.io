@@ -177,8 +177,9 @@ p.post-desc {
 
 .site-photo {
   float: right;
-  width: 200px;
-  height: 200px;
+  //width: 200px;
+  //height: 200px;
+  max-width: 200px;
   margin: 0 0 1rem $spacer;
   clear: right;
 }
@@ -192,8 +193,9 @@ p.post-desc {
   }
   
   .site-photo {
-    width: 300px;
-    height: 300px;
+    //width: 300px;
+    //height: 300px;
+    max-width: 300px;
     margin: 0 0 1rem 2rem;
   }
 }
