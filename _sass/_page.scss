@@ -170,7 +170,8 @@ p.post-desc {
   float: right;
   width: 200px;
   height: 200px;
-  margin: -.4rem 1rem 0 $spacer;
+  //margin: -.4rem 1rem 0 $spacer;
+  margin: -.4rem 0 1rem $spacer;
 }
 
 .site-photo {
@@ -185,7 +186,8 @@ p.post-desc {
   .site-profile {
     width: 300px;
     height: 300px;
-    margin: -1.2rem 1rem 0 2rem;
+    //margin: -1.2rem 1rem 0 2rem;
+    margin: -1.2rem 0 1rem 2rem;
   }
   
   .site-photo {
