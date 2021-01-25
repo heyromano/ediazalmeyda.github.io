@@ -8,7 +8,7 @@ desc: Home Page
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <p><img src="{{ site.baseurl }}/assets/img/profile.jpg"></p>
+    <br><img src="{{ site.baseurl }}/assets/img/profile.jpg">
 </figure>
 {:/}
 
@@ -16,7 +16,7 @@ I am a microbial ecologist at [New College of Florida](https://www.ncf.edu/acade
 
 {::nomarkdown} 
 <figure class="site-profile">
-    <p><img src="{{ site.baseurl }}/assets/img/diving.jpg"></p>
+    <br><img src="{{ site.baseurl }}/assets/img/diving.jpg">
 </figure>
 {:/}
 
