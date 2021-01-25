@@ -179,7 +179,7 @@ p.post-desc {
   float: right;
   width: 200px;
   height: 200px;
-  margin: 1rem 1rem 0 $spacer;
+  margin: 0 0 1rem $spacer;
   clear: right;
 }
 
@@ -189,13 +189,11 @@ p.post-desc {
     height: 300px;
     //margin: -1.2rem 1rem 0 2rem;
     margin: 0 0 1rem 2rem;
-    clear: right;
   }
   
   .site-photo {
     width: 300px;
     height: 300px;
-    margin: 1rem 1rem 0 2rem;
-    clear: right;
+    margin: 0 0 1rem 2rem;
   }
 }
